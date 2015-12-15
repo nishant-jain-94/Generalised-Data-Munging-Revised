@@ -1,4 +1,4 @@
-("#visualize").on('click',function() {
+$("#visualize").on('click',function() {
   console.log("Something");
   var filename = $('#filename').val();
   console.log(filename);
